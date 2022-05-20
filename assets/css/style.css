@@ -1,0 +1,10 @@
+body {
+    font-family: Raleway;
+    background-color: rgb(238, 238, 238);
+}
+
+/* HEADER */
+
+.carousel-caption {
+    --bs-bg-opacity: .5;
+}

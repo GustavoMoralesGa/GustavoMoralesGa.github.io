@@ -11,3 +11,6 @@ Cristian faudez
 
 https://github.com/GustavoMoralesGa/ElCriSN
 
+David Mellafe
+
+github.com/GustavoMoralesGa/Curriculum-desafio-6
